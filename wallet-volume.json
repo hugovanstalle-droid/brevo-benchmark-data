@@ -1,0 +1,19 @@
+{
+  "wallet": {
+    "monthly_volume": {
+      "global": {
+        "labels": [
+          "January", "February", "March", "April",
+          "May", "June", "July", "August",
+          "September", "October", "November", "December"
+        ],
+        "values": [
+          15237351, 15439578, 16613824, 16310281,
+          17928050, 18091546, 17882595, 15644065,
+          16472815, 19401876, 17422045, 21769096
+        ],
+        "total": 208213122
+      }
+    }
+  }
+}
