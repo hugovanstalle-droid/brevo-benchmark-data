@@ -1,0 +1,36 @@
+{
+  "push": {
+    "monthly_volume": {
+      "global": {
+        "labels": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "values": [
+          7357565867,
+          6784677686,
+          7688511310,
+          7584433392,
+          7895351933,
+          7426620219,
+          7280916664,
+          7553817710,
+          7591990981,
+          7508471334,
+          7063608442,
+          6932524515
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "sms": {
+    "sample_composition": {
+      "all_regions": {
+        "labels": ["Retail","Healthcare & Wellness","Hospitality & Food Services","Professional Services & Consulting","Government & Public Administration","Information Technology & Software","Travel Transportation & Tourism","Manufacturing Automotive & Construction","Nonprofit & NGO","Education","Marketing Advertising & Communications","Entertainment","Banking & Financial Services","Real Estate & Property Management","Other","Ecommerce","Energy & Utilities","Insurance","Media","Telecommunications"],
+        "values": [14.00,9.03,7.37,7.15,7.03,5.95,5.90,5.89,5.79,5.60,5.11,5.09,4.49,2.68,2.55,2.23,1.88,1.06,0.65,0.54]
+      }
+    }
+  }
+}
