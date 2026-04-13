@@ -1,0 +1,445 @@
+{
+  "industries": [
+    {
+      "id": "all_industries",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 17.32, "top10": 32.70 },
+          "transactional": { "average": 26.68, "top10": 54.24 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 32.49, "top10": 52.05 },
+          "transactional": { "average": 38.09, "top10": 72.21 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.78, "top10": 3.87 },
+          "transactional": { "average": 5.94, "top10": 15.58 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.46, "top10": 0.09 },
+          "transactional": { "average": 0.23, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "banking_financial_services",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 19.04, "top10": 34.38 },
+          "transactional": { "average": 29.02, "top10": 59.99 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 30.63, "top10": 50.45 },
+          "transactional": { "average": 39.28, "top10": 68.19 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.56, "top10": 3.50 },
+          "transactional": { "average": 6.17, "top10": 16.15 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.30, "top10": 0.07 },
+          "transactional": { "average": 0.33, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "ecommerce",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 13.08, "top10": 22.36 },
+          "transactional": { "average": 28.97, "top10": 47.65 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 29.84, "top10": 42.87 },
+          "transactional": { "average": 44.25, "top10": 67.18 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.79, "top10": 4.17 },
+          "transactional": { "average": 6.59, "top10": 14.81 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.42, "top10": 0.10 },
+          "transactional": { "average": 0.36, "top10": 0.01 }
+        }
+      }
+    },
+    {
+      "id": "education",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 21.70, "top10": 39.26 },
+          "transactional": { "average": 30.05, "top10": 53.79 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 36.96, "top10": 56.84 },
+          "transactional": { "average": 43.12, "top10": 69.50 }
+        },
+        "ctr": {
+          "marketing": { "average": 2.19, "top10": 4.50 },
+          "transactional": { "average": 7.10, "top10": 16.48 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.36, "top10": 0.09 },
+          "transactional": { "average": 0.34, "top10": 0.01 }
+        }
+      }
+    },
+    {
+      "id": "energy_utilities",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 21.47, "top10": 39.34 },
+          "transactional": { "average": 28.38, "top10": 50.00 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 34.38, "top10": 50.88 },
+          "transactional": { "average": 40.08, "top10": 73.42 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.72, "top10": 3.62 },
+          "transactional": { "average": 7.20, "top10": 19.06 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.39, "top10": 0.06 },
+          "transactional": { "average": 0.24, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "entertainment",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 16.06, "top10": 28.19 },
+          "transactional": { "average": 31.06, "top10": 54.65 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 35.32, "top10": 52.27 },
+          "transactional": { "average": 47.77, "top10": 77.38 }
+        },
+        "ctr": {
+          "marketing": { "average": 2.03, "top10": 4.56 },
+          "transactional": { "average": 8.34, "top10": 19.71 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.43, "top10": 0.12 },
+          "transactional": { "average": 0.34, "top10": 0.01 }
+        }
+      }
+    },
+    {
+      "id": "government_public_administration",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 23.80, "top10": 39.20 },
+          "transactional": { "average": 12.44, "top10": 39.25 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 41.74, "top10": 61.15 },
+          "transactional": { "average": 15.88, "top10": 58.41 }
+        },
+        "ctr": {
+          "marketing": { "average": 2.80, "top10": 6.12 },
+          "transactional": { "average": 2.53, "top10": 4.76 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.33, "top10": 0.06 },
+          "transactional": { "average": 0.06, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "healthcare_wellness",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 17.14, "top10": 31.25 },
+          "transactional": { "average": 27.81, "top10": 50.95 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 34.91, "top10": 52.13 },
+          "transactional": { "average": 44.19, "top10": 73.16 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.48, "top10": 3.20 },
+          "transactional": { "average": 7.28, "top10": 18.90 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.48, "top10": 0.10 },
+          "transactional": { "average": 0.43, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "hospitality_food_services",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 13.80, "top10": 25.76 },
+          "transactional": { "average": 28.23, "top10": 52.68 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 35.40, "top10": 52.78 },
+          "transactional": { "average": 43.21, "top10": 73.43 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.50, "top10": 3.10 },
+          "transactional": { "average": 5.90, "top10": 15.11 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.57, "top10": 0.13 },
+          "transactional": { "average": 0.26, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "information_technology_software",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 18.11, "top10": 34.27 },
+          "transactional": { "average": 27.41, "top10": 48.27 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 29.22, "top10": 47.13 },
+          "transactional": { "average": 38.39, "top10": 64.45 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.67, "top10": 3.21 },
+          "transactional": { "average": 7.47, "top10": 20.16 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.47, "top10": 0.10 },
+          "transactional": { "average": 0.38, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "insurance",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 19.91, "top10": 36.80 },
+          "transactional": { "average": 33.96, "top10": 53.81 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 31.11, "top10": 53.54 },
+          "transactional": { "average": 44.11, "top10": 67.80 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.47, "top10": 3.91 },
+          "transactional": { "average": 9.27, "top10": 20.54 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.29, "top10": 0.07 },
+          "transactional": { "average": 0.31, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "manufacturing_automotive_construction",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 17.41, "top10": 30.66 },
+          "transactional": { "average": 30.74, "top10": 55.31 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 31.49, "top10": 45.44 },
+          "transactional": { "average": 42.10, "top10": 73.34 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.89, "top10": 3.76 },
+          "transactional": { "average": 7.28, "top10": 18.18 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.44, "top10": 0.10 },
+          "transactional": { "average": 0.22, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "marketing_advertising_communications",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 16.18, "top10": 30.16 },
+          "transactional": { "average": 26.42, "top10": 50.88 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 25.99, "top10": 45.07 },
+          "transactional": { "average": 37.06, "top10": 64.74 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.50, "top10": 2.84 },
+          "transactional": { "average": 7.65, "top10": 17.71 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.33, "top10": 0.06 },
+          "transactional": { "average": 0.25, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "media",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 18.88, "top10": 31.39 },
+          "transactional": { "average": 23.92, "top10": 47.40 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 33.80, "top10": 50.22 },
+          "transactional": { "average": 35.88, "top10": 59.34 }
+        },
+        "ctr": {
+          "marketing": { "average": 2.57, "top10": 5.51 },
+          "transactional": { "average": 8.93, "top10": 21.28 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.31, "top10": 0.06 },
+          "transactional": { "average": 0.34, "top10": 0.01 }
+        }
+      }
+    },
+    {
+      "id": "nonprofit_ngo",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 22.77, "top10": 37.76 },
+          "transactional": { "average": 29.97, "top10": 58.44 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 41.51, "top10": 59.88 },
+          "transactional": { "average": 43.57, "top10": 74.12 }
+        },
+        "ctr": {
+          "marketing": { "average": 2.31, "top10": 5.21 },
+          "transactional": { "average": 8.30, "top10": 23.10 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.32, "top10": 0.07 },
+          "transactional": { "average": 0.24, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "other",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 16.87, "top10": 30.29 },
+          "transactional": { "average": 28.25, "top10": 50.67 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 32.91, "top10": 52.34 },
+          "transactional": { "average": 41.37, "top10": 76.72 }
+        },
+        "ctr": {
+          "marketing": { "average": 2.16, "top10": 4.96 },
+          "transactional": { "average": 6.93, "top10": 16.78 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.36, "top10": 0.08 },
+          "transactional": { "average": 0.18, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "professional_services_consulting",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 20.77, "top10": 35.50 },
+          "transactional": { "average": 29.54, "top10": 51.23 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 33.50, "top10": 50.60 },
+          "transactional": { "average": 41.68, "top10": 68.64 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.86, "top10": 3.81 },
+          "transactional": { "average": 7.92, "top10": 19.15 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.38, "top10": 0.09 },
+          "transactional": { "average": 0.24, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "real_estate_property_management",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 16.69, "top10": 33.68 },
+          "transactional": { "average": 28.62, "top10": 56.30 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 33.01, "top10": 52.60 },
+          "transactional": { "average": 43.49, "top10": 77.11 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.56, "top10": 3.22 },
+          "transactional": { "average": 5.19, "top10": 16.12 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.40, "top10": 0.09 },
+          "transactional": { "average": 0.33, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "retail",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 11.92, "top10": 21.67 },
+          "transactional": { "average": 24.22, "top10": 48.45 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 31.87, "top10": 48.49 },
+          "transactional": { "average": 33.22, "top10": 67.07 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.68, "top10": 3.83 },
+          "transactional": { "average": 5.01, "top10": 9.88 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.42, "top10": 0.10 },
+          "transactional": { "average": 0.16, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "telecommunications",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 17.48, "top10": 30.58 },
+          "transactional": { "average": 28.89, "top10": 51.76 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 30.63, "top10": 51.53 },
+          "transactional": { "average": 40.65, "top10": 68.18 }
+        },
+        "ctr": {
+          "marketing": { "average": 2.03, "top10": 4.09 },
+          "transactional": { "average": 4.77, "top10": 12.22 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.31, "top10": 0.07 },
+          "transactional": { "average": 0.14, "top10": 0.00 }
+        }
+      }
+    },
+    {
+      "id": "travel_transportation_tourism",
+      "metrics": {
+        "open_rate": {
+          "marketing": { "average": 16.34, "top10": 33.11 },
+          "transactional": { "average": 25.54, "top10": 56.58 }
+        },
+        "open_rate_mpp": {
+          "marketing": { "average": 30.31, "top10": 52.12 },
+          "transactional": { "average": 36.29, "top10": 74.87 }
+        },
+        "ctr": {
+          "marketing": { "average": 1.66, "top10": 3.76 },
+          "transactional": { "average": 4.87, "top10": 13.49 }
+        },
+        "unsubscribe_rate": {
+          "marketing": { "average": 0.57, "top10": 0.11 },
+          "transactional": { "average": 0.16, "top10": 0.00 }
+        }
+      }
+    }
+  ]
+}
